@@ -1,2 +1,2 @@
 # video-processing
-Video Stream Procesing with Python &amp; OpenCV
+Video Stream Procesing with Python, ZMQ &amp; OpenCV
