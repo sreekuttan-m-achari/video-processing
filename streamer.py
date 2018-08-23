@@ -2,8 +2,8 @@ import base64
 import cv2
 import zmq
 
-controler_ip = '10.0.1.114'
-stream_port = '5555'
+controler_ip = '10.0.1.114'#<your destination ip here >
+stream_port = '5555' #<stream port>
 
 context = zmq.Context()
 footage_socket = context.socket(zmq.PUB)
